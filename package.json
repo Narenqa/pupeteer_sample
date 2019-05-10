@@ -1,0 +1,13 @@
+{
+  "name": "product-comparison-tests",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npm install",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "puppeteer": "^1.7.0"
+  }
+}
